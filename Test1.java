@@ -1,5 +1,5 @@
 package Arrays;
-
+//Resister
 public class arr1 {
     public static void main(String[] args) {
         //create and initialize 1-D array
